@@ -10,8 +10,8 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-![Tela dos cards](img/siteperiferico.jpg)
+![Tela dos cards](public/img/siteperifericos.jpg)
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-![Tela de detalhes](img/detalheperiferico.jpg)
+![Tela de detalhes](public/img/detalheperiferico.jpg)
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-![Console](img/cards.jpg)
+![Console](public/img/cards.jpg)
