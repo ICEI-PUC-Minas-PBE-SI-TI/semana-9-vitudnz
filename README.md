@@ -4,13 +4,14 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Vitor Fernandes Diniz
+- Matrícula: 1209348
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-
+![Tela dos cards](img/siteperiferico.jpg)
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
+![Tela de detalhes](img/detalheperiferico.jpg)
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+![Console](img/cards.jpg)
